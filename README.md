@@ -4,7 +4,7 @@
 ![alt image](https://github.com/romannomad/JokesWebApp/blob/master/2.png)
 ![alt image](https://github.com/romannomad/JokesWebApp/blob/master/3.png)
 ![alt image](https://github.com/romannomad/JokesWebApp/blob/master/4.png)
-![alt image](https://github.com/romannomad/JokesWebApp/blob/master/1.png)
+![alt image](https://github.com/romannomad/JokesWebApp/blob/master/5.png)
 ![alt image](https://github.com/romannomad/JokesWebApp/blob/master/1.png)
 ![alt image](https://github.com/romannomad/JokesWebApp/blob/master/1.png)
 ![alt image](https://github.com/romannomad/JokesWebApp/blob/master/1.png)
