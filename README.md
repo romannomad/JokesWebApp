@@ -10,5 +10,4 @@
 ![alt image](https://github.com/romannomad/JokesWebApp/blob/master/8.png)
 ![alt image](https://github.com/romannomad/JokesWebApp/blob/master/9.png)
 ![alt image](https://github.com/romannomad/JokesWebApp/blob/master/10.png)
-![alt image](https://github.com/romannomad/JokesWebApp/blob/master/1.png)
-![alt image](https://github.com/romannomad/JokesWebApp/blob/master/1.png)
+![alt image](https://github.com/romannomad/JokesWebApp/blob/master/11.png)
